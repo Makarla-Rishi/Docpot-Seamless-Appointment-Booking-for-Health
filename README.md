@@ -115,11 +115,11 @@ Backend API: `http://localhost:5000`
 
 ## 👨‍💻 Team Members
 
-- Mamidi Yashaswini (Team Leader)  
-- Chinthakayala Balaji  
-- Veligandla Pranathi  
-- Shaik Irfan  
-- Koneti Sreevidya  
+- Tiruvayipati Madhulatha (Team Leader)  
+- Dinnepati Thanuja 
+- Bathula Lokesh 
+- Makarla Rishitha
+- S Sivaharshitha
 
 ---
 
